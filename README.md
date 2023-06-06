@@ -11,7 +11,7 @@ programming is a form of psychological warfare against yourself
 👤 Elena Rodriguez Murphy
 🕷 she/her
 🔈 It's pronounced /ɛlɛnə/
-🔮 Dark HTML witch performing evil CSS rituals for Blaseball
+⚾️ Former front-end dev for Blaseball
 ```
 
 <p align='center'>🌿🍵💚🌱🍐📗🥝🍈</p>
